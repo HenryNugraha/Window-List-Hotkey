@@ -1,6 +1,6 @@
 Window List with Hotkey
 ===============
-An applet for Cinnamon, based from stock window list applet. This applet has functional hotkey to activate certain opened window on list by using key combination. It will add 10 set of keybinding (SUPER KEY + 1,2,3,4,5,6,7,8,9 or 0). If you happened to have any of these keybindings already set, please undo them from their respective software.
+An applet for Cinnamon, based from stock window list applet. This applet has functional hotkey to activate certain opened window on list by using key combination. It will add 10 set of keybindings (SUPER KEY + 1,2,3,4,5,6,7,8,9 or 0). If you happened to have any of these keybindings already set, please undo them from their respective software.
 
 ===============
 Version: 1.0.0<br />
@@ -12,11 +12,11 @@ In case you found an issue or wanted to request new feature, feel free to do so 
 
 Installation
 ===============
-1. Download the applet from https://github.com/HenryNugraha/Window-List-Hotkey
-2. Unzip the downloaded file
-3. Copy the folder "Window-List-Hotkey@HenryNugraha" to "~/.local/share/cinnamon/applets"
-4. Right click on Cinnamon Panel then click "Add applets to the panel"
-5. Select "Window list with hotkey" from the list then right click and choose "Add to panel"
+1. Download the applet from https://github.com/HenryNugraha/Window-List-Hotkey.
+2. Unzip the downloaded file.
+3. Copy the folder *Window-List-Hotkey@HenryNugraha* to *~/.local/share/cinnamon/applets*.
+4. Right click on Cinnamon Panel then click *Add applets to the panel*.
+5. Select *Window list with hotkey* from the list then right click and choose *Add to panel*.
 
 Change Log
 ===============
